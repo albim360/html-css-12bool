@@ -1,0 +1,44 @@
+[class^='col'] {
+	padding: 30px;
+}
+
+.container {
+	padding: 40px 30px 0 56px;
+	max-width: 850px;
+}
+
+.bg-color-red {
+	background-color: rgb(250,0,1);
+}
+
+.bg-color-orange {
+	background-color: #fd951c;
+}
+
+.bg-color-black {
+	background-color: #000002;
+}
+
+.bg-color-yellow {
+	background-color: #f1ef0d;
+}
+
+.bg-color-midnightblue {
+	background-color: #0058ac;
+}
+
+.bg-color-aqua {
+	background-color: #74addb;
+}
+
+.bg-color-pink {
+	background-color: #ecc0d4;
+}
+
+.bg-color-grey {
+	background-color: #a0a2a1;
+}
+
+.bg-color-bord {
+	background-color: #e3c598;
+}
